@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.53b3f24f.css",
+    "main.js": "/static/js/main.f3770c0e.js",
+    "static/media/about.png": "/static/media/about.5392ebbc138eea6a476e.png",
+    "static/media/oextraordinario.jpg": "/static/media/oextraordinario.fbb9cc0e36e747ecaafb.jpg",
+    "static/media/fahrenheit.png": "/static/media/fahrenheit.181e254bd74f73b1cffd.png",
+    "static/media/umdenosestamentindo.JPG": "/static/media/umdenosestamentindo.5a9e4926930d72040257.JPG",
+    "static/media/senhordosaneis.jpg": "/static/media/senhordosaneis.6ad015f870b6547a9b9b.jpg",
+    "static/media/vermelhoeterno.jpg": "/static/media/vermelhoeterno.a4c300165c6c9aef968d.jpg",
+    "static/media/harleen.jpg": "/static/media/harleen.375a88a1033709dda985.jpg",
+    "static/media/apiadamortal.jpg": "/static/media/apiadamortal.5dadfade7e7253b880ef.jpg",
+    "static/media/coraline.jpg": "/static/media/coraline.9eb161a8136a666e2b9d.jpg",
+    "static/media/acincopassosdevoce.jpg": "/static/media/acincopassosdevoce.3f57a579933d3cf46a21.jpg",
+    "static/media/ostrescoringas.jpg": "/static/media/ostrescoringas.e0cd2da2b1f494b4e3ef.jpg",
+    "static/media/tetoparadois.jpg": "/static/media/tetoparadois.bef46c41c59992017305.jpg",
+    "static/media/ascronicasdenarnia.jpg": "/static/media/ascronicasdenarnia.524c448d4ebfed53d523.jpg",
+    "static/media/apacientesilenciosa.jpg": "/static/media/apacientesilenciosa.6f80d28a494c72ea5052.jpg",
+    "static/media/sandman.jpg": "/static/media/sandman.7d0e50f46957c092208a.jpg",
+    "static/media/aculpaedasestrelas.jpg": "/static/media/aculpaedasestrelas.d217ff3e4edd61be2807.jpg",
+    "static/media/it.jpg": "/static/media/it.e71f68ce632de0fd546a.jpg",
+    "static/media/ondemoraatrapaca.jpg": "/static/media/ondemoraatrapaca.f3ad7bf6d4e3aa47ac46.jpg",
+    "static/media/orgulhoepreconceito.jpg": "/static/media/orgulhoepreconceito.e825fefd00d17167a077.jpg",
+    "static/media/materiaescura.jpg": "/static/media/materiaescura.46b58e5bad8d778b305b.jpg",
+    "static/media/amoregelato.jpg": "/static/media/amoregelato.f29d8fec122f6ee06b10.jpg",
+    "static/media/ohomemdegiz.jpg": "/static/media/ohomemdegiz.f439fdf511159cdc6ece.jpg",
+    "static/media/oassassinatodoexpressooriente.jpg": "/static/media/oassassinatodoexpressooriente.4235d5e41a01b3514f55.jpg",
+    "static/media/logo.png": "/static/media/logo.0168d819cd66e2d18c20.png",
+    "static/media/portfolio.svg": "/static/media/portfolio.2f31f4be113e35cc3442.svg",
+    "static/media/contact.svg": "/static/media/contact.ec60abf53c38c2593f7e.svg",
+    "static/media/about.svg": "/static/media/about.70a8290c961c47c208b5.svg",
+    "index.html": "/index.html",
+    "main.53b3f24f.css.map": "/static/css/main.53b3f24f.css.map",
+    "main.f3770c0e.js.map": "/static/js/main.f3770c0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53b3f24f.css",
+    "static/js/main.f3770c0e.js"
+  ]
+}
