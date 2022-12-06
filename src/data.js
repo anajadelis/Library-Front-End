@@ -1,11 +1,6 @@
 //  icons
 import {
-  FiInstagram,
   FiGithub,
-  FiLinkedin,
-  FiBook,
-  FiMusic,
-  FiFilm,
   FiMail,
   FiMapPin,
 } from 'react-icons/fi';
@@ -57,16 +52,8 @@ export const navigation = [
 // social
 export const social = [
   {
-    icon: <FiInstagram />,
-    href: '',
-  },
-  {
     icon: <FiGithub />,
-    href: 'https://github.com/SamaraSilvia81',
-  },
-  {
-    icon: <FiLinkedin />,
-    href: 'https://www.linkedin.com/in/samara-silvia-9a2a26231',
+    href: 'https://github.com/SamaraSilvia81/project-library-studio-front',
   },
 ];
 
@@ -246,7 +233,7 @@ export const booksData = [
     name: 'Trilogia Harleen',
     category: 'geek',
     description:'Uma jovem e brilhante psiquiatra, com a cura para a loucura de Gotham City, a dra. Harleen Quinzel toma medidas drásticas para salvar a cidade de si mesma...',
-    href: 'https://www.figma.com/proto/pEAWwmhwBH1392WHb1oFj0/Prot%C3%B3tipo---Library-Studio-X?node-id=0%3A1',
+    href: 'https://drive.google.com/file/d/1vrGuQTajpzI2XoX6FXB0NhglSUX07ZBl/view?usp=share_link',
   },
 ];
 
@@ -278,28 +265,6 @@ export const booksNav = [
   },
   {
     name: 'geek',
-  },
-];
-
-// bookShelf
-export const bookShelf = [
-  {
-    icon: <FiBook />,
-    name: 'Bookstan',
-    description:
-      'Eu me considero uma apreciadora de livros. Eu amo ler livros, embora não leia tanto quanto eu gostaria. Acredito que os meus gêneros favoritos são fantasia, principalmente a alta como a saga de Nárnia e a trilogia de Castelo animado, mas também gosto muito de dramas e um romance clássico. Sou um tanto eclética nessas questões. '
-  },
-  {
-    icon: <FiMusic />,
-    name: 'Musicista',
-    description:
-      'Eu amo investir meu tempo tocando teclado, cantando e fazendo kits vocais. Amo a beleza que é a melodia! A forma como a música conversa com você. Em comparação aos livros, eu não sou tão eclética, então os meus gêneros favoritos são gospel, pois como cristã ele se sonda, mas também gosto de um pop e uma música clássica!',
-  },
-  {
-    icon: <FiFilm />,
-    name: 'Cinematográfica',
-    description:
-      'Quem não ama se sentar na cama, com cobertores quentinhos e maratonar uma série né? Eu adoro, principalmente se for filmes e séries da Marvel e Dc. Amo essas indústrias! Mas também aprecio um excelente anime, Avatar - kof kof -, e uns doramas!',
   },
 ];
 

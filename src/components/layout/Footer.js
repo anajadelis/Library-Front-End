@@ -25,7 +25,7 @@ const Footer = () => {
           <img className='h-40 w-50' src={Logo} alt='' />
           </div>
           <p className='text-paragraph opacity-80 text-[15px]'>
-            &copy; 2022 Samara Silvia. All rights reserved.
+            &copy; 2022 Library Studio. All rights reserved.
           </p>
         </div>
       </div>
