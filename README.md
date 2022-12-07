@@ -29,5 +29,3 @@ A modelagem do nosso projeto se caracteriza da seguinte forma: No nosso site hav
 - `SpringBoot:` Framework usado pra integrar o front com o back-end. 
 
 Link do Back-End: https://github.com/HigoHenrique/api-project-library-studio
-
-## Deploy do Projeto
