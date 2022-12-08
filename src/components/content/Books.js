@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import axios, { Axios } from 'axios';
 
 // import data
 import { booksData } from '../../data';
@@ -10,19 +11,27 @@ import Book from './Book';
 const Books = () => {
   const [item, setItem] = useState({ name: 'all' });
   const [books, setBooks] = useState([]);
+  const [booksDb, setBooksDb] = useState([]);
   const [active, setActive] = useState(0);
+
+  useEffect(() =>{
+    axios.get("http://localhost:8080/book")
+    .then((r) =>{
+      setBooksDb(r.data)
+    })
+  },[])
 
   useEffect(() => {
     // get projects based on item
     if (item.name === 'all') {
-      setBooks(booksData);
+      setBooks(booksDb);
     } else {
-      const newBooks = booksData.filter((book) => {
+      const newBooks = booksDb.filter((book) => {
         return book.category.toLowerCase() === item.name;
       });
       setBooks(newBooks);
     }
-  }, [item]);
+  }, [booksDb,item]);
 
   const handleClick = (e, index) => {
     setItem({ name: e.target.textContent.toLowerCase() });
