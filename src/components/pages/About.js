@@ -32,11 +32,11 @@ const About = () => {
   
               </p>
             </div>
-            <link to="/contact">
+            <Link to="/contact">
               <button className='btn btn-md md:btn-lg transition ease-in-out delay-150 bg-violet-900 hover:-translate-y-1 hover:scale-110 hover:bg-violet-800 duration-300'>
                   Contact me
                 </button>
-            </link>
+            </Link>
           </div>
         </div>
       </div>
