@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from "react-router-dom";
 
 const Hero = () => {
 
@@ -13,11 +14,11 @@ const Hero = () => {
                 <p className='pt-4 pb-8 md:pt-6 md:pb-12 max-w-[480px] text-lg text-center lg:text-left'>
                   O Pequeno Príncipe, Antoine de Saint-Exupéry
                 </p>
-                <a href='/HomeBooks'>
+                <Link to="/HomeBooks">
                   <button className=' btn btn-md md:btn-lg transition ease-in-out delay-150 bg-violet-900 hover:-translate-y-1 hover:scale-110 hover:bg-violet-800 duration-300'>
                     Entrar
                   </button>
-                </a>
+                </Link>
               </div>
             </div>
           </div>
